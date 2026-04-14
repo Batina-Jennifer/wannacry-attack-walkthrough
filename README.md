@@ -39,5 +39,5 @@ The virtual machine hosts are as follows:
 8. The Windows 7 host is now completely encrypted with .wnry extension. To restore to original form, restore the saved snapshot of the Windows7 machine.<br />
 <b>(DO NOT click on any of the links inside the encrypted Windows7 machine. DO NOT Pay the ransom. Just restore the original state using the snapshot after shutting it down.)</b>
 
-## 📸 Preview
+## 📸 Proof of Simulation
 ![simulation proof](<Malware Attack Proof (2).png>)
